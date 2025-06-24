@@ -1,4 +1,4 @@
-
+[](Image.jpeg)
 ## Charging Farm
 
 This repository contains the necessary files for 3D printing the charging unit for the **Actilumus (Condor)** device.
