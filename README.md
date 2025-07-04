@@ -10,7 +10,7 @@ This project is provided **as-is**, without any warranty or guarantee of safety,
 This repository contains the necessary files for 3D printing the charging unit for the **Actilumus (Condor)** device, along with instructions on how to build it.
 
 I used **PLA filament** to print all parts. After soldering the components, the connections were secured with hot glue. The pins were also fixed in place after being soldered onto a **PCB board**.
-
+I used a **Banbu Lab P1s** 3D printer but you can use any 3D printer device available to you!
 
 ![plot](./images/Charging.jpg)
 
