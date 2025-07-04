@@ -16,7 +16,7 @@ I used **PLA filament** to print all parts. After soldering the components, the 
 
 ### **Charging**
 
-After connecting all of your devices to the 3D-printed charging docks and while they are charging, you can manage all of your devices in the software by connecting **one official charging dock** to your computer.
+After connecting all of your devices to 3D-printed charging docks and while they are charging, you can manage all of your devices in the software by connecting **one official charging dock** to your computer.
 
 This way, your computer will automatically recognize all connected devices, allowing you to **sync, read, delete**, and perform other actions.
 
