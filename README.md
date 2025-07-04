@@ -34,16 +34,16 @@ I used **PLA filament** to print all parts. After soldering the components, the 
 3. Top holder: [here!](3D_printing_files/Charging_PortLow.stl)
 
 ### Instruction
-![plot](./images/1.jpeg)
-![plot](./images/2.jpeg)
-![plot](./images/3.jpeg)
-![plot](./images/4.jpeg)
-![plot](./images/5.jpeg)
-![plot](./images/6.jpeg)
-![plot](./images/7.jpeg)
-![plot](./images/8.jpeg)
-![plot](./images/9.jpeg)
-![plot](./images/10.jpeg)
-![plot](./images/11.jpeg)
+![plot](./images/1.png)
+![plot](./images/2.png)
+![plot](./images/3.png)
+![plot](./images/4.png)
+![plot](./images/5.png)
+![plot](./images/6.png)
+![plot](./images/7.png)
+![plot](./images/8.png)
+![plot](./images/9.png)
+![plot](./images/10.png)
+![plot](./images/11.png)
 
 
