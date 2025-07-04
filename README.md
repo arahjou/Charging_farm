@@ -15,6 +15,13 @@ I used **PLA filament** to print all parts. After soldering the components, the 
 
 ![plot](./images/Charging.jpg)
 
+### **Charging**
+
+After connecting all of your devices to the 3D-printed charging docks and while they are charging, you can manage all of your devices in the software by connecting **one official charging dock** to your computer.
+
+This way, your computer will automatically recognize all connected devices, allowing you to **sync, read, delete**, and perform other actions.
+
+
 ### Additional Parts Used
 
 1. **USB 2.0 Type A Male Socket 4-Pin Plug Connector:**
@@ -54,6 +61,5 @@ I used **PLA filament** to print all parts. After soldering the components, the 
 ![plot](./images/10.png)
 **⚠️ Warning:** Before using the device, connect your 3D-printed device to the charger and check the voltage, polarity (positive and negative), and current (amperage). The readings should be similar to what you get from a USB port on a computer.
 ![plot](./images/11.png)
-
 
 
