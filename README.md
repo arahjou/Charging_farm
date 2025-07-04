@@ -1,3 +1,10 @@
+### ⚠️ Disclaimer
+
+This project is provided **as-is**, without any warranty or guarantee of safety, functionality, or fitness for a particular purpose. By using the files and instructions in this repository, you agree that **you are solely responsible for any risks, damages, or injuries** that may result from building, using, or modifying the device.
+
+**I do not offer any technical support or assistance** for this project. Use it entirely at your own risk.
+
+
 ![plot](./images/Image.jpeg)
 ## Charging Farm
 
@@ -38,12 +45,15 @@ I used **PLA filament** to print all parts. After soldering the components, the 
 ![plot](./images/2.png)
 ![plot](./images/3.png)
 ![plot](./images/4.png)
+**⚠️ Warning:** The pin closer to the edge has a **positive** charge. This is very important! Any incorrect connection may damage your device.
 ![plot](./images/5.png)
 ![plot](./images/6.png)
 ![plot](./images/7.png)
 ![plot](./images/8.png)
 ![plot](./images/9.png)
 ![plot](./images/10.png)
+**⚠️ Warning:** Before using the device, connect your 3D-printed device to the charger and check the voltage, polarity (positive and negative), and current (amperage). The readings should be similar to what you get from a USB port on a computer.
 ![plot](./images/11.png)
+
 
 
