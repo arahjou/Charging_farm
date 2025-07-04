@@ -58,7 +58,7 @@ This way, your computer will automatically recognize all connected devices, allo
 ![plot](./images/8.png)
 ![plot](./images/9.png)
 ![plot](./images/10.png)
-**⚠️ Warning:** Before using the device, connect your 3D-printed device to the charger and check the voltage, polarity (positive and negative), and current (amperage). The readings should be similar to what you get from a USB port on a computer.
+**⚠️ Warning:** Before using it for chaging your device, connect your 3D-printed dock to the charger and check the voltage, polarity (positive and negative), and current (amperage) by a mulimeter instument. The readings should be similar to what you get from a USB port on a computer.
 ![plot](./images/11.png)
 
 
